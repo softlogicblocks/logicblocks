@@ -1,7 +1,5 @@
 package logicblocks.post12_12_20;
 
-import logicblocks.Examples.IPolygon;
-
 // Class Rectangle implementing the interface IPolygon
 public class Rectangle implements IPolygon {
     final int noOfSides = 4;

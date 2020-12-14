@@ -1,7 +1,5 @@
 package logicblocks.post12_12_20;
 
-import logicblocks.Examples.IPolygon;
-
 // Class Triangle implementing the interface IPolygon
 public class Triangle implements IPolygon {
     final int noOfSides = 3;

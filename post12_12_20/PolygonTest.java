@@ -1,9 +1,5 @@
 package logicblocks.post12_12_20;
 
-import logicblocks.Examples.IPolygon;
-import logicblocks.Examples.Rectangle;
-import logicblocks.Examples.Triangle;
-
 // Class for testing the interface IPolygon and its implementing classes
 public class PolygonTest {
     public static void main(String args[]) {
